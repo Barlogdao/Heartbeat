@@ -107,5 +107,6 @@ InitTestScene*.unity*
 /[Aa]ssets/[Ii]nit[Tt]est[Ss]cene*.unity*
 
 # Dotween Pro
+Assets/Plugins/Demigiant/DOTweenPro/
 Assets/Plugins/Demigiant/DOTween/
 Assets/DOTween/
